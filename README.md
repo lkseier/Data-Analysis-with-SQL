@@ -1,12 +1,15 @@
 # Data-Analysis-with-SQL
 
-📊 Belgian Companies Data Analysis Project
+📊 Belgian Companies Data Analysis Project.
+
 A data analysis project exploring insights about active companies in Belgium using SQL. The dataset includes company metadata, activity sectors, addresses, establishment locations, and more. This project was conducted as part of a consulting mission following the migration of company data to a structured SQL database.
 
-🧠 Project Description
+🧠 Project Description:
+
 This project aims to uncover valuable business insights from Belgium’s enterprise registry using SQL queries. The analysis explores company size, geographical distribution, creation trends, activity sectors, and establishment patterns. These insights are useful for policymakers, business strategists, and investment analysts.
 
-📂 Repository Structure
+📂 Repository Structure:
+
 bash
 Copy
 Edit
@@ -17,7 +20,9 @@ Edit
 ├── visuals/                  # Graphs and charts generated for the slides
 ├── README.md                 # This file
 ⚙️ Installation & Usage
-Prerequisites
+
+Prerequisites:
+
 Any SQLite-compatible interface (e.g., DB Browser for SQLite, DBeaver, or a Jupyter Notebook with SQLite connector)
 
 Python (optional, for generating visuals)
@@ -25,6 +30,7 @@ Python (optional, for generating visuals)
 Jupyter or VSCode (optional, for editing and visualization)
 
 Steps
+
 Clone the repository:
 
 bash
@@ -64,7 +70,8 @@ top_companies_updated.png
 
 You can embed these into a PowerPoint or use them in a Streamlit dashboard.
 
-👥 Contributors
+👥 Contributors:
+
 Klebert Tchatchoua
 
 🗓️ Timeline
