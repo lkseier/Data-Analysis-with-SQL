@@ -83,5 +83,6 @@ Day 3 : Visualization and storytelling
 
 Day 4 : Final presentation and documentation
 
-🙋 Personal Situation
+🙋 Personal Situation:
+
 This project was completed as part of our becode bootcamp training. It was a collaborative effort to analyze and present insights from the Belgian company database, enhancing our SQL skills and understanding of data analysis.
